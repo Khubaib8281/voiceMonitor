@@ -1,9 +1,9 @@
 # VoiceMonitor
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-![PyPI](https://img.shields.io/pypi/v/voicemonitor)
+![PyPI](https://img.shields.io/pypi/v/voiceMonitor)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Downloads](https://img.shields.io/pypi/dm/voicemonitor)
+![Downloads](https://img.shields.io/pypi/dm/voiceMonitor)
 ![Status](https://img.shields.io/badge/status-research--grade-success)
 
 **Real-Time Vocal Fatigue Monitoring for Continuous Speech Analytics**
