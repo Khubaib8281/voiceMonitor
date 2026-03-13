@@ -1,5 +1,0 @@
-auralis-vfs>=1.1.0
-sounddevice>=0.4
-pydub>=0.25
-soundfile>=0.12
-tqdm>=4.65
