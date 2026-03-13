@@ -92,7 +92,7 @@ pip install voicemonitor
 ### Install from source
 
 ```bash
-git clone https://github.com/<your-username>/voicemonitor.git
+git clone https://github.com/Khubaib8281/voiceMonitor.git
 cd voicemonitor
 pip install -e .
 ```
