@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+setup.cfg
+tests/test_session.py
+voiceMonitor/__init__.py
+voiceMonitor/analytics.py
+voiceMonitor/audio_stream.py
+voiceMonitor/cli.py
+voiceMonitor/config.py
+voiceMonitor/session.py
+voiceMonitor/utils.py
+voiceMonitor.egg-info/PKG-INFO
+voiceMonitor.egg-info/SOURCES.txt
+voiceMonitor.egg-info/dependency_links.txt
+voiceMonitor.egg-info/entry_points.txt
+voiceMonitor.egg-info/requires.txt
+voiceMonitor.egg-info/top_level.txt

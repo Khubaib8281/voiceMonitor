@@ -1,0 +1,2 @@
+[console_scripts]
+voicemonitor = voiceMonitor.cli:main
